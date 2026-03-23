@@ -6,8 +6,8 @@
 6. C Compares references
 7.
 8. D. Duplicate is ignored
-9.
-10.
+9. A. 2.5
+10. C. To refer to current object instance
 11. C. Belongs to the class, not instances
 12. 
 13.
@@ -15,7 +15,7 @@
 15. B. To exit loop immediately
 16.
 17.
-18.
+18. B. @Override
 19.
 20.
 
