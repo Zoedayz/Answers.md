@@ -14,10 +14,11 @@
 14. B./D. thorws is for declaring exceptions, throw is for throwing an exception
 15. B. To exit loop immediately
 16. B. 0
-17.
+17. A. Removing unused code
 18. B. @Override
-19.
-20.
+19. D. Creating hash code for ohjects
+20. D. A class that cannot be instantiated and may contain abstract methods
+
 
 
 
