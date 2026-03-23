@@ -4,14 +4,14 @@
 4. D. 33
 5. A. Defining multiple methods with the same name but different parameters
 6. C Compares references
-7. 
+7. C. An exception thrown when trying to use a null reference
 8. D. Duplicate is ignored
 9. A. 2.5
 10. C. To refer to current object instance
 11. C. Belongs to the class, not instances
-12. 
-13.
-14.
+12. A. A class can implement multiple interfaces
+13. C. ArrayList uses array, LinkedList uses doubly-linked list
+14. B./D. thorws is for declaring exceptions, throw is for throwing an exception
 15. B. To exit loop immediately
 16. B. 0
 17.
