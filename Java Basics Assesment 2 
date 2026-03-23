@@ -5,14 +5,14 @@
 5. 
 6. C Compares references
 7.
-8.
+8. D. Duplicate is ignored
 9.
 10.
-11.
-12.
+11. C. Belongs to the class, not instances
+12. 
 13.
 14.
-15.
+15. B. To exit loop immediately
 16.
 17.
 18.
